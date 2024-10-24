@@ -1,3 +1,5 @@
+hostname = *.mgtv.com
+
 # > 芒果TV
 # hostname = *.mgtv.com
 # 无用请求
